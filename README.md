@@ -1,1 +1,1 @@
-# Interpreter for the Scheme dialect of Lisp
+# Interpreter for the Scheme dialect of Lisp.
